@@ -51,6 +51,16 @@ To what extent do healthcare access factors (insurance coverage, affordability, 
 * Access to a personal healthcare provider was associated with improved mental health outcomes.
 * Healthcare access indicators may help identify populations at increased risk for poor mental health outcomes.
 
+## Sample Visualizations
+
+### Adults Without a Personal Doctor Report More Poor Mental Health Days
+
+![Personal Doctor Access](visuals/personal_doctor_access.png)
+
+### Uninsured Adults Report Higher Mental Health Burden
+
+![Insurance Status](visuals/insurance_status.png)
+
 ## Data Sources
 
 * CDC Behavioral Risk Factor Surveillance System (BRFSS)
