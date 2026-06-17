@@ -47,10 +47,10 @@ To what extent do healthcare access factors (insurance coverage, affordability, 
 
 ## Key Findings
 
-* Adults facing healthcare affordability barriers reported higher mental health burden.
-* Access to a personal healthcare provider was associated with improved mental health outcomes.
-* Healthcare access indicators may help identify populations at increased risk for poor mental health outcomes.
-
+- Uninsured adults reported higher average mental health burden than insured adults.
+- Adults without a personal healthcare provider reported more poor mental health days than those with a personal provider.
+- Healthcare access barriers may contribute to increased mental health burden and highlight opportunities for targeted interventions.
+  
 ## Sample Visualizations
 
 ### Adults Without a Personal Doctor Report More Poor Mental Health Days
@@ -60,6 +60,12 @@ To what extent do healthcare access factors (insurance coverage, affordability, 
 ### Uninsured Adults Report Higher Mental Health Burden
 
 ![Insurance Status](visuals/insurance_status.png)
+
+## Project Files
+
+- Analysis Notebook: `notebooks/Healthcare_Access_Mental_Health_Analysis.ipynb`
+- Visualizations: `visuals/`
+- Dataset Documentation: `data/`
 
 ## Data Sources
 
